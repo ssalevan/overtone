@@ -4,7 +4,7 @@
 (def specs
   [
    {:name "MoogVCF"
-    :summary
+    :summary "MoogVCF is a port of the CSound opcode moogvcf."
     :args [{:name "input"
             :doc "audio input"}
 
